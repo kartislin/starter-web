@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    choco co@qq.com qqlskdjf
 
 # THANKS
 
