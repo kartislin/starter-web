@@ -12,7 +12,7 @@ This is intro
 
 ## How to Contribute
 
-Continuing
+Continuings sdfsdwersdf
 
 ## Deployment
 
